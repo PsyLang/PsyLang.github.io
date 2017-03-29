@@ -9,3 +9,12 @@
 * IT기반 교육 시스템 
 
 ### 스터디 내역 & 자료 
+
+#### 영어교육 챗봇
+* https://github.com/PsyLang/langbot
+
+#### 기계번역 
+* https://github.com/PsyLang/PsyTM
+
+#### 영어학습 
+* https://github.com/PsyLang/english_python
